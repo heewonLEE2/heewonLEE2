@@ -3,8 +3,8 @@
   💡 AI와 백엔드 기술을 융합해 실용적이고 혁신적인 서비스를 개발하는 엔지니어  
 </p>
 
-<!-- 상단 버튼 세트 -->
-<p align="center">
+<!-- 풀폭 버튼 바 -->
+<div align="center" style="width:100%;">
   <a href="https://your-notion-url-here" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
@@ -14,7 +14,7 @@
   <a href="https://your-youtube-url-here" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
