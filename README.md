@@ -1,83 +1,62 @@
-<!-- 프로필 제목 -->
-<h1 align="center">👋 Hi, I'm Heewon Lee</h1>
-<p align="center">
-  💡 AI와 백엔드 기술을 융합해 실용적이고 혁신적인 서비스를 개발하는 엔지니어  
-</p>
+# 👋 안녕하세요! 저는 이희원입니다
+
+풀스택 개발자를 꿈꾸며 다양한 기술을 학습하고 있습니다.
+
+## 🚀 기술 스택
+
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
+## 📊 현재 학습 수준
+
+```
+Java & Oracle        ██████████████████░░ 90%
+JavaScript & Node.js ██████████████░░░░░░ 70%
+Python & AI          ████████████░░░░░░░░ 60%
+```
+
+## 🎯 주요 경험
+
+- **Java**: JSP/Servlet, Spring Boot를 활용한 웹 애플리케이션 개발
+- **Database**: Oracle과의 JDBC 연동 및 데이터베이스 설계 경험
+- **Frontend**: React를 활용한 사용자 인터페이스 구현
+- **Backend**: Node.js/Express로 RESTful API 서버 구축
+- **AI**: Python을 활용한 머신러닝, 딥러닝, 컴퓨터 비전 프로젝트
+- **Data Processing**: Beautiful Soup을 이용한 웹 크롤링 및 데이터 수집
+
+## 🌱 현재 학습 중
+
+- 최신 React 기능 및 상태 관리
+- Spring Boot 고급 기능
+- Python AI/ML 알고리즘 심화
+- 클라우드 기술 및 DevOps
+
+## 📫 연락하기
+
+- GitHub: [@heewonLEE2](https://github.com/heewonLEE2)
 
 ---
 
-## 📚 Skills & Tech Stack
-
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-</p>
-
-### **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-</p>
-
-### **Database**
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-</p>
-
----
-
-## 🎯 Current Skill Level (Self-Assessment)
-- **Java & Oracle**: 90% — 주력 기술, 백엔드 프로젝트 주도 가능
-- **JavaScript (Node.js)**: 70% — 서버 구축 및 API 개발 가능
-- **Python (AI)**: 60% — 데이터 처리, 기본 모델 구현 가능
-
----
-
-## 🛠 Projects & Experience
-- **Java + Oracle 기반 쇼핑몰 백엔드 개발** (No Spring)
-- **공공데이터 활용 지도 서비스**: 서울시 쓰레기통 위치 시각화 (Python + Folium)
-- **AI 이미지 분석 서비스**: OpenAI API 연동, 이미지 URL 분석 및 피드백 제공
-- **웹 크롤러**: BeautifulSoup로 데이터 수집 및 전처리
-
----
-
-## 📌 Learning Goals
-- AI 모델 학습 자동화 & MLOps 환경 구축
-- Spring Boot 기반 대규모 서비스 백엔드 설계
-- React + Node.js 풀스택 프로젝트 고도화
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heewonLEE2&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heewonLEE2&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 📫 Contact
-<p>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/heewonLEE2">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ *꾸준한 학습과 실전 프로젝트를 통해 AI & 백엔드 전문 개발자로 성장 중입니다.*
-
--->
+💡 **"끊임없는 학습과 성장을 통해 더 나은 개발자가 되겠습니다!"**
