@@ -56,10 +56,23 @@
 ---
 
 ## 🛠 Projects & Experience
-- **Java + Oracle 기반 쇼핑몰 백엔드 개발** (No Spring)
-- **공공데이터 활용 지도 서비스**: 서울시 쓰레기통 위치 시각화 (Python + Folium)
-- **AI 이미지 분석 서비스**: OpenAI API 연동, 이미지 URL 분석 및 피드백 제공
-- **웹 크롤러**: BeautifulSoup로 데이터 수집 및 전처리
+
+### 🛍️ [**BO Project - AI 패션 쇼핑몰**](https://github.com/heewonLEE2/BOProject)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw)
+[![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+> **Java + Oracle 기반 쇼핑몰 백엔드 개발** (No Spring) | OpenAI API 연동 AI 추천 시스템
+
+### 🗺️ [**서울시 쓰레기통 지도 서비스**](https://github.com/heewonLEE2/trash-map)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/trash-map)
+> **공공데이터 활용 지도 서비스** | Python + Folium으로 위치 시각화
+
+### 🤖 [**AI 이미지 분석 서비스**](https://github.com/heewonLEE2/ai-image-analyzer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/ai-image-analyzer)
+> **OpenAI API 연동** | 이미지 URL 분석 및 피드백 제공
+
+### 🕷️ [**웹 크롤러 프로젝트**](https://github.com/heewonLEE2/web-crawler)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/web-crawler)
+> **BeautifulSoup 활용** | 데이터 수집 및 전처리 자동화
 
 ---
 
