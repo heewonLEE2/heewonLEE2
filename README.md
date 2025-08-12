@@ -62,12 +62,12 @@
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fc3utoxBQs8&t=23s)
 > **Java + Oracle 기반 쇼핑몰 백엔드 개발** (No Spring) | OpenAI API 연동 AI 추천 시스템
 
-### 🤖 [**수면 분석 서비스, AI 코멘트**](https://github.com/heewonLEE2/ai-image-analyzer)
+### 🤖 [**파이썬 수면 분석 서비스, AI 코멘트**](https://github.com/heewonLEE2/ai-image-analyzer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Python/tree/master/SleepProject)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Weq4QAWPQ6Q)
 > **Python-데이터 분석 및 웹 프레임워크** | Sleep_health_and_lifestyle_dataset.csv 데이터 셋 활용, Streamlit: 대시보드 UI 구현
 
-### 🕷️ [**웹 크롤러 프로젝트**](https://github.com/heewonLEE2/web-crawler)
+### 🕷️ [**파이썬 웹 크롤러 프로젝트**](https://github.com/heewonLEE2/web-crawler)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Python/tree/master/CrawlProject)
 > **BeautifulSoup 활용** | 데이터 수집 및 전처리 자동화, 도서 검색 및 크롤링, GPT 기반 도서 추천
 
