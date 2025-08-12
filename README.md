@@ -51,7 +51,7 @@
 ## 🎯 Current Skill Level (Self-Assessment)
 - **Java & Oracle**: 90% — 주력 기술, 백엔드 프로젝트 주도 가능
 - **JavaScript (Node.js)**: 70% — 서버 구축 및 API 개발 가능
-- **Python (AI)**: 60% — 데이터 처리, 기본 모델 구현 가능
+- **Python (AI)**: 70% — 데이터 처리, 기본 모델 구현 가능
 
 ---
 
