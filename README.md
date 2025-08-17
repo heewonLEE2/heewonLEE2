@@ -5,7 +5,7 @@
 
 <!-- 풀폭 버튼 바 -->
 <div align="center" style="width:100%;">
-  <a href="https://confusion-tennis-2f8.notion.site/1daa9006a30a80f09f3fcd1a833eb28d?v=1daa9006a30a80b0ae1b000caab9dc99&source=copy_link" target="_blank">
+  <a href="https://confusion-tennis-2f8.notion.site/1daa9006a30a80f09f3fcd1a833eb28d?v=1daa9006a30a80b0ae1b000caab9dc99&source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   <a href="https://github.com/heewonLEE2" target="_blank">
