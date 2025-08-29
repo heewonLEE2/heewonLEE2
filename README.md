@@ -128,6 +128,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Python/tree/master/CrawlProject)
 > **BeautifulSoup 활용** | 데이터 수집 및 전처리 자동화, 도서 검색 및 크롤링, GPT 기반 도서 추천
 
+### 🧠 [**Deep Learning CNN 모델 설계 & 분석**](https://github.com/heewonLEE2/cnn-projects)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/deep-learning-cnn)
+[![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/your-colab-link)
+> **PyTorch + CNN 아키텍처** | 이미지 분류, 객체 인식 모델링, 성능 분석 및 시각화
+
 ---
 
 ## 📌 Learning Goals
