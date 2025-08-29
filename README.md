@@ -7,6 +7,11 @@
 <div align="center" style="width:100%;">
   <a href="https://confusion-tennis-2f8.notion.site/1daa9006a30a80f09f3fcd1a833eb28d?v=1daa9006a30a80b0ae1b000caab9dc99&source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <sapn>모든 프로그래밍 학습 정리</sapn>
+  </a>
+  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <sapn>Ai 학습 정리</sapn>
   </a>
   <a href="https://github.com/heewonLEE2" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -15,6 +20,8 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
+
+
 
 ---
 
