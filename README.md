@@ -67,12 +67,48 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 </p>
 
+### **AI & Machine Learning**
+<p>
+  <!-- 프레임워크 -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  
+  <!-- 머신러닝 -->
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  
+  <!-- 컴퓨터 비전 -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNN-4285F4?style=flat&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF4B4B?style=flat&logo=opencv&logoColor=white"/>
+  
+  <!-- 데이터 분석 -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white"/>
+</p>
+
 ---
 
 ## 🎯 Current Skill Level (Self-Assessment)
-- **Java & Oracle**: 90% — 주력 기술, 백엔드 프로젝트 주도 가능
-- **JavaScript (Node.js)**: 70% — 서버 구축 및 API 개발 가능
-- **Python (AI)**: 70% — 데이터 처리, 기본 모델 구현 가능
+
+### 🏆 **Mastery Level** (80%+)
+- **Java & Spring Boot** — 대규모 백엔드 아키텍처 설계 가능
+- **Computer Vision** — CNN 모델링, OpenCV 실전 활용
+- **JavaScript (Node.js)** — 풀스택 프로젝트 주도
+
+### 🚀 **Growth Level** (50-79%)
+- **Python AI/ML** — 딥러닝 구현
+
+### 🌱 **Challenge Level** (30-49%)
+- **LLM & Fine-tuning** — RAG 구현, 프롬프트 엔지니어링
+- **Docker & DevOps** — 컨테이너화 및 배포 자동화
+- **MLOps Pipeline** — 모델 학습 워크플로우 구축
+- **AI Agent (MCP)** — Claude API 활용, 자동화 도구 개발
+- **Kubernetes** — 오케스트레이션 및 스케일링
+
+### 🔥 **Learning Started** (<30%)
+- **Kotlin Mobile Development** — 안드로이드 네이티브 앱 개발
 
 ---
 
@@ -95,9 +131,21 @@
 ---
 
 ## 📌 Learning Goals
-- AI 모델 학습 자동화 & MLOps 환경 구축
-- Spring Boot 기반 대규모 서비스 백엔드 설계
-- React + Node.js 풀스택 프로젝트 고도화
+
+### 🤖 **AI Specialization**
+- **Computer Vision** 전문화 (Object Detection, Segmentation, 실시간 처리)
+- **LLM** 기본 이상 학습 (Fine-tuning, RAG, Prompt Engineering)
+- **AI Agent** 적극 활용 (MCP, Claude API, LangChain)
+
+### 🏗️ **Backend & Infrastructure**
+- **Spring Boot** 대규모 서비스 아키텍처 설계
+- **MLOps** 파이프라인 구축 (모델 학습 자동화)
+- **DevOps** 전문화 (Docker, Kubernetes, CI/CD)
+
+### 🛠️ **Development Stack**
+- **Kotlin** 모바일 개발 역량 확장
+- **Gradle** 빌드 시스템 최적화
+- **React + Node.js** 풀스택 프로젝트 고도화
 ---
 
 ## 📊 GitHub Stats
@@ -109,15 +157,26 @@
 ---
 
 ## 📫 Contact
-<p>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/heewonLEE2">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <br><b>gmldnjs1616@gmail.com</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📱_Phone-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+      <br><b>010-4772-2480</b>
+    </td>
+  </tr>
+</table>
+
+**💬 언제든 연락 주세요! 새로운 기회와 협업을 환영합니다.**
+
+</div>
+
 
 ---
 
-⭐ *꾸준한 학습과 실전 프로젝트를 통해 AI & 백엔드 전문 개발자로 성장 중입니다.*
+# ⭐ *꾸준한 학습과 실전 프로젝트를 통해 AI & 백엔드 전문 개발자로 성장 중입니다.*
