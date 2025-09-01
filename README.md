@@ -119,6 +119,11 @@
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fc3utoxBQs8&t=23s)
 > **Java + Oracle 기반 쇼핑몰 백엔드 개발** (No Spring) | OpenAI API 연동 AI 추천 시스템
 
+### 📋 [**JSPBoard - MVC 패턴 순수 Java 웹 기술 게시판 시스템**](https://github.com/heewonLEE2/JSPBoard)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/JSPBoard)
+> **MVC + Command Pattern 구현** | Spring 미사용 순수 Servlet/JSP, 파일업로드/썸네일 생성, Ajax 댓글 시스템
+
+
 ### 🤖 [**파이썬 수면 분석 서비스, AI 코멘트**](https://github.com/heewonLEE2/ai-image-analyzer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Python/tree/master/SleepProject)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Weq4QAWPQ6Q)
