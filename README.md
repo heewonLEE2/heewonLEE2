@@ -53,6 +53,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -93,7 +94,7 @@
 ## 🎯 Current Skill Level (Self-Assessment)
 
 ### 🏆 **Mastery Level** (80%+)
-- **Java & Spring Boot** — 대규모 백엔드 아키텍처 설계 가능
+- **Java & Spring Boot** — 백엔드 아키텍처 설계 가능
 - **Computer Vision** — CNN 모델링, OpenCV 실전 활용
 - **JavaScript (Node.js)** — 풀스택 프로젝트 주도
 
