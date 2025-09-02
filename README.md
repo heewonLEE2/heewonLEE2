@@ -28,7 +28,7 @@
       <td align="center" style="padding: 8px;">
         <a href="https://www.youtube.com/@heewonLEE2" target="_blank">
           <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-          <br><b>📺 YouTube</b>
+          <br><b>📺 YouTube프로젝트 데모 영상</b>
         </a>
       </td>
     </tr>
