@@ -70,6 +70,12 @@
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
 </p>
 
+### **DevOps & Container** 🚀
+<p>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80d68b19000c914f88d6&source=copy_link" ><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80d68b19000c914f88d6&source=copy_link" ><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>
+</p>
+
 ### **Database** 🗄️
 <p>
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80509a2f000ce43728fc&source=copy_link" ><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
