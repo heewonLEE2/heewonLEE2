@@ -66,8 +66,8 @@
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80509a2f000ce43728fc&source=copy_link" ><img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=apache&logoColor=white"/></a>
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a8000a60e000c7765aab2&source=copy_link" ><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a8000a60e000c7765aab2&source=copy_link" ><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
 </p>
 
 ### **DevOps & Container** 🚀
