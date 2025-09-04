@@ -130,26 +130,30 @@
 
 ## 🛠 Projects & Experience
 
-### 🛍️ [**BO Project - AI추천, 게시판 기능 패션 쇼핑몰**](https://github.com/heewonLEE2/BOProject)
+### 🛍️ [**BO Project - AI추천, 게시판 기능 패션 쇼핑몰**](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fc3utoxBQs8&t=23s)
 > **Java + Oracle 기반 쇼핑몰 백엔드 개발** (No Spring) | OpenAI API 연동 AI 추천 시스템
+
+### 📊 [**StockWave - AI 활용 주식 정보 통합 플랫폼**](https://github.com/heewonLEE2/StockWave)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/StockWave)
+[![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](#)
+> **Java + OpenAI API 연동** | 실시간 주식 데이터 조회, 배당금 예측 계산기, AI 뉴스 분석, Command Pattern + MVC 아키텍처
 
 ### 📋 [**JSPBoard - MVC 패턴 순수 Java 웹 기술 게시판 시스템**](https://github.com/heewonLEE2/JSPBoard)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/JSPBoard)
 > **MVC + Command Pattern 구현** | Spring 미사용 순수 Servlet/JSP, 파일업로드/썸네일 생성, Ajax 댓글 시스템
 
-
-### 🤖 [**파이썬 수면 분석 서비스, AI 코멘트**](https://github.com/heewonLEE2/ai-image-analyzer)
+### 🤖 [**파이썬 수면 분석 서비스, AI 코멘트**](https://github.com/heewonLEE2/Python/tree/master/SleepProject)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Python/tree/master/SleepProject)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Weq4QAWPQ6Q)
 > **Python-데이터 분석 및 웹 프레임워크** | Sleep_health_and_lifestyle_dataset.csv 데이터 셋 활용, Streamlit: 대시보드 UI 구현
 
-### 🕷️ [**파이썬 웹 크롤러 프로젝트**](https://github.com/heewonLEE2/web-crawler)
+### 🕷️ [**파이썬 웹 크롤러 프로젝트**](https://github.com/heewonLEE2/Python/tree/master/CrawlProject)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Python/tree/master/CrawlProject)
 > **BeautifulSoup 활용** | 데이터 수집 및 전처리 자동화, 도서 검색 및 크롤링, GPT 기반 도서 추천
 
-### 🧠 [**Deep Learning CNN 모델 설계 & 분석**](https://github.com/heewonLEE2/cnn-projects)
+### 🧠 [**Deep Learning CNN 모델 설계 & 분석**](https://github.com/heewonLEE2/Data-Ai-Colab)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Data-Ai-Colab)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1JPs70Jx1-Gh2Rfu2BQJP-9eE4Igg5tgP?usp=sharing)
 > **PyTorch + CNN 아키텍처** | 이미지 분류, 객체 인식 모델링, 성능 분석 및 시각화
@@ -172,6 +176,7 @@
 - **Kotlin** 모바일 개발 역량 확장
 - **Gradle** 빌드 시스템 최적화
 - **React + Node.js** 풀스택 프로젝트 고도화
+
 ---
 
 ## 📊 GitHub Stats
