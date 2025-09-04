@@ -110,21 +110,22 @@
 
 ### 🏆 **Mastery Level** (80%+)
 - **Java & Spring Boot** — 백엔드 아키텍처 설계 가능
-- **Computer Vision** — CNN 모델링, OpenCV 실전 활용
-- **JavaScript (Node.js)** — 풀스택 프로젝트 주도
 
 ### 🚀 **Growth Level** (50-79%)
 - **Python AI/ML** — 딥러닝 구현
-
+- **Computer Vision** — CNN 모델링, OpenCV 실전 활용
+- **JavaScript (Node.js)** — 풀스택 프로젝트 주도
+- 
 ### 🌱 **Challenge Level** (30-49%)
 - **LLM & Fine-tuning** — RAG 구현, 프롬프트 엔지니어링
 - **Docker & DevOps** — 컨테이너화 및 배포 자동화
 - **MLOps Pipeline** — 모델 학습 워크플로우 구축
-- **AI Agent (MCP)** — Claude API 활용, 자동화 도구 개발
+- **AI Agent (MCP)** — Claude API 활용, 자동화 도구 사용
 - **Kubernetes** — 오케스트레이션 및 스케일링
 
 ### 🔥 **Learning Started** (<30%)
-- **Kotlin Mobile Development** — 안드로이드 네이티브 앱 개발
+- **Kotlin Mobile Development** — 안드로이드 네이티브 앱 개발 공부
+- **Gradle Build** - Gradle 이용 빌드 연습
 
 ---
 
@@ -135,8 +136,8 @@
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fc3utoxBQs8&t=23s)
 > **Java + Oracle 기반 쇼핑몰 백엔드 개발** (No Spring) | OpenAI API 연동 AI 추천 시스템
 
-### 📊 [**StockWave - AI 활용 주식 정보 통합 플랫폼**](https://github.com/heewonLEE2/StockWave)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/StockWave)
+### 📊 [**StockWave - AI 활용 주식 정보 통합 플랫폼**](https://github.com/heewonLEE2/Servlet-Stock-Project)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Servlet-Stock-Project)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](#)
 > **Java + OpenAI API 연동** | 실시간 주식 데이터 조회, 배당금 예측 계산기, AI 뉴스 분석, Command Pattern + MVC 아키텍처
 
