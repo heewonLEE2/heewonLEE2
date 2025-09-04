@@ -141,8 +141,8 @@
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](#)
 > **Java + OpenAI API 연동** | 실시간 주식 데이터 조회, 배당금 예측 계산기, AI 뉴스 분석, Command Pattern + MVC 아키텍처
 
-### 📋 [**JSPBoard - MVC 패턴 순수 Java 웹 기술 게시판 시스템**](https://github.com/heewonLEE2/JSPBoard)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/JSPBoard)
+### 📋 [**JSPBoard - MVC 패턴 순수 Java 웹 기술 게시판 시스템**](https://github.com/heewonLEE2/JSPBoard-Project)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/JSPBoard-Project)
 > **MVC + Command Pattern 구현** | Spring 미사용 순수 Servlet/JSP, 파일업로드/썸네일 생성, Ajax 댓글 시스템
 
 ### 🤖 [**파이썬 수면 분석 서비스, AI 코멘트**](https://github.com/heewonLEE2/Python/tree/master/SleepProject)
