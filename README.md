@@ -82,6 +82,7 @@
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></a>
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/></a>
 </p>
 
 ### **AI & Machine Learning** 🤖
@@ -111,11 +112,11 @@
 ### 🏆 **Mastery Level** (80%+)
 - **Java & Spring Boot** — 백엔드 아키텍처 설계 가능
 
-### 🚀 **Growth Level** (50-79%)
+### 🚀 **Growth Level** (70-80%)
 - **Python AI/ML** — 딥러닝 구현
 - **Computer Vision** — CNN 모델링, OpenCV 실전 활용
 - **JavaScript (Node.js)** — 풀스택 프로젝트 주도
-- 
+  
 ### 🌱 **Challenge Level** (30-49%)
 - **LLM & Fine-tuning** — RAG 구현, 프롬프트 엔지니어링
 - **Docker & DevOps** — 컨테이너화 및 배포 자동화
