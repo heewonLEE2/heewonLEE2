@@ -72,8 +72,8 @@
 
 ### **DevOps & Container** 🚀
 <p>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80d68b19000c914f88d6&source=copy_link" ><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80d68b19000c914f88d6&source=copy_link" ><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/273a9006a30a8014bf23e3e078b952a6?v=273a9006a30a818789f9000ca622c03a&source=copy_link" ><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/273a9006a30a8014bf23e3e078b952a6?v=273a9006a30a818789f9000ca622c03a&source=copy_link" ><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>
 </p>
 
 ### **Database** 🗄️
