@@ -114,11 +114,11 @@
 - **Java & Spring Boot** — 백엔드 아키텍처 설계 가능
 
 ### 🚀 **Growth Level** (70-80%)
-- **Python AI/ML** — 딥러닝 구현
-- **Computer Vision** — CNN 모델링, OpenCV 실전 활용
 - **JavaScript (Node.js)** — 풀스택 프로젝트 주도
   
 ### 🌱 **Challenge Level** (30-49%)
+- **Python AI/ML** — 딥러닝 구현
+- **Computer Vision** — CNN 모델링, OpenCV 실전 활용
 - **LLM & Fine-tuning** — RAG 구현, 프롬프트 엔지니어링
 - **Docker & DevOps** — 컨테이너화 및 배포 자동화
 - **MLOps Pipeline** — 모델 학습 워크플로우 구축
