@@ -56,6 +56,7 @@
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/></a>
 </p>
 
@@ -109,7 +110,7 @@
 
 ## 🎯 Current Skill Level (Self-Assessment)
 
-### 🏆 **Mastery Level** (80%+)
+### 🏆 **Mastery Level** (90%+)
 - **Java & Spring Boot** — 백엔드 아키텍처 설계 가능
 
 ### 🚀 **Growth Level** (70-80%)
@@ -126,7 +127,8 @@
 
 ### 🔥 **Learning Started** (<30%)
 - **Kotlin Mobile Development** — 안드로이드 네이티브 앱 개발 공부
-- **Gradle Build** - Gradle 이용 빌드 연습
+- **Gradle Build** — Gradle 이용 빌드 연습
+- **Unity 2D Game Development** — Unity 엔진 기반 2D 모바일 게임 제작 경험
 
 ---
 
