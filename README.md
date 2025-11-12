@@ -134,6 +134,10 @@
 
 ## 🛠 Projects & Experience
 
+### ⏰ [**MomentLock - 타임캡슐 소셜 플랫폼**](https://github.com/heewonLEE2/momentlock-project)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/momentlock-project)
+> **Spring Boot 3 + JPA + AWS S3 + Oracle** | 협업형 타임캡슐 플랫폼, 토큰 기반 초대 시스템, 파일 업로드, 위치 기반 서비스, Spring Security + BCrypt
+
 ### 🛍️ [**BO Project - AI추천, 게시판 기능 패션 쇼핑몰**](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fc3utoxBQs8&t=23s)
