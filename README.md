@@ -115,14 +115,15 @@
 
 ### 🚀 **Growth Level** (70-80%)
 - **JavaScript (Node.js)** — 풀스택 프로젝트 주도
-  
-### 🌱 **Challenge Level** (30-49%)
 - **Python AI/ML** — 딥러닝 구현
 - **Computer Vision** — CNN 모델링, OpenCV 실전 활용
+  
+### 🌱 **Challenge Level** (50-69%)
+- **Cloud & DevOps** — AWS 인프라 구축 및 CI/CD 자동화
+  - **AWS Infrastructure**: EC2 (Express 서버), RDS (MariaDB), S3 + CloudFront (정적 사이트 배포)
+  - **CI/CD Pipeline**: GitHub Actions 기반 프론트/백엔드 자동 배포
 - **LLM & Fine-tuning** — RAG 구현, 프롬프트 엔지니어링
-- **Docker & DevOps** — 컨테이너화 및 배포 자동화
-- **MLOps Pipeline** — 모델 학습 워크플로우 구축
-- **AI Agent (MCP)** — Claude API 활용, 자동화 도구 사용
+- **Docker** — 컨테이너화 및 배포 자동화
 - **Kubernetes** — 오케스트레이션 및 스케일링
 
 ### 🔥 **Learning Started** (<30%)
@@ -132,7 +133,7 @@
 
 ---
 
-## 🛠 Projects & Experience
+## 🛠 Web - Projects & Experience
 
 ### ⏰ [**MomentLock - 타임캡슐 소셜 플랫폼**](https://github.com/heewonLEE2/momentlock-project)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/momentlock-project)
