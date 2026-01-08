@@ -151,7 +151,6 @@
 ### **2. Deep Learning & Model Implementation**
 
 #### [**VGG 논문 구현 (진행 중)**](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](#)
 > **PyTorch** | "Very Deep Convolutional Networks for Large-Scale Image Recognition" 논문 기반 VGG 아키텍처 구현 및 학습
 
 #### **추가 논문 구현 예정**
@@ -161,9 +160,7 @@
 
 ### **3. Computer Vision**
 
-#### [**Deep Learning CNN 모델 설계 & 분석**](https://github.com/heewonLEE2/Data-Ai-Colab)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Data-Ai-Colab)
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1JPs70Jx1-Gh2Rfu2BQJP-9eE4Igg5tgP?usp=sharing)
+#### [**Deep Learning CNN 모델 설계 & 분석 (준비 중)**](#)
 > **PyTorch + CNN Architecture** | MNIST, CIFAR-10 데이터셋 기반 이미지 분류, 커스텀 CNN 설계, 모델 성능 분석 및 시각화
 
 ---
