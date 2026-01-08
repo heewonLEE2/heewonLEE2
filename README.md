@@ -139,52 +139,52 @@
 
 ## 🤖 AI - Projects & Experience
 
-### 📊 **Data Analysis & Visualization**
+### **1. Data Analysis & Visualization**
 
-#### 💤 [**수면 분석 서비스 with AI 코멘트**](https://github.com/heewonLEE2/Python/tree/master/SleepProject)
+#### [**수면 분석 서비스 with AI 코멘트**](https://github.com/heewonLEE2/Python/tree/master/SleepProject)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Python/tree/master/SleepProject)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Weq4QAWPQ6Q)
 > **Python + Streamlit + OpenAI API** | Sleep Health Dataset 기반 수면 패턴 분석, 대시보드 UI 구현, AI 기반 개인 맞춤 건강 코멘트 생성
 
 ---
 
-### 🧠 **Deep Learning & Model Implementation**
+### **2. Deep Learning & Model Implementation**
 
-#### 📄 [**VGG 논문 구현 (진행 중)**](#)
+#### [**VGG 논문 구현 (진행 중)**](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](#)
 > **PyTorch** | "Very Deep Convolutional Networks for Large-Scale Image Recognition" 논문 기반 VGG 아키텍처 구현 및 학습
 
-#### 🔬 **추가 논문 구현 예정**
+#### **추가 논문 구현 예정**
 > ResNet, EfficientNet 등 주요 CNN 아키텍처 논문 구현 및 성능 비교 분석 계획
 
 ---
 
-### 👁️ **Computer Vision**
+### **3. Computer Vision**
 
-#### 🧠 [**Deep Learning CNN 모델 설계 & 분석**](https://github.com/heewonLEE2/Data-Ai-Colab)
+#### [**Deep Learning CNN 모델 설계 & 분석**](https://github.com/heewonLEE2/Data-Ai-Colab)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Data-Ai-Colab)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1JPs70Jx1-Gh2Rfu2BQJP-9eE4Igg5tgP?usp=sharing)
 > **PyTorch + CNN Architecture** | MNIST, CIFAR-10 데이터셋 기반 이미지 분류, 커스텀 CNN 설계, 모델 성능 분석 및 시각화
 
 ---
 
-### 🔧 **MLOps & Production** (준비 중)
+### **4. MLOps & Production** (준비 중)
 > Docker 기반 모델 서빙, FastAPI를 활용한 AI API 서버 구축, CI/CD 파이프라인 통합 예정
 
 ---
 
 ## ☁️ DevOps & Infrastructure Experience
 
-### **AWS 기반 풀스택 배포**
+### **1. AWS 기반 풀스택 배포**
 - **EC2**: Express 서버 배포 및 운영
 - **RDS (MariaDB)**: 관계형 데이터베이스 구축
 - **S3 + CloudFront**: 정적 사이트 배포 및 CDN 구성
 
-### **CI/CD Pipeline**
+### **2. CI/CD Pipeline**
 - **GitHub Actions**: 프론트엔드/백엔드 자동 배포 파이프라인 구축
 - 코드 푸시 시 자동 빌드 및 배포 자동화
 
-### **컨테이너화 (진행 중)**
+### **3. 컨테이너화 (진행 중)**
 - **Docker**: 애플리케이션 컨테이너화 및 이미지 관리
 - **Kubernetes**: 컨테이너 오케스트레이션 학습 중
 
@@ -192,25 +192,25 @@
 
 ## 🌐 Backend & Full-Stack - Projects
 
-### ⏰ [**MomentLock - 타임캡슐 소셜 플랫폼**](https://github.com/heewonLEE2/momentlock-project)
+### [**MomentLock - 타임캡슐 소셜 플랫폼**](https://github.com/heewonLEE2/momentlock-project)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/momentlock-project)
 > **Spring Boot 3 + JPA + AWS S3 + Oracle** | 협업형 타임캡슐 플랫폼, 토큰 기반 초대 시스템, 파일 업로드, 위치 기반 서비스, Spring Security + BCrypt
 
-### 🛍️ [**BO Project - AI 추천 패션 쇼핑몰**](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw)
+### [**BO Project - AI 추천 패션 쇼핑몰**](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fc3utoxBQs8&t=23s)
 > **Java + Oracle** (No Spring Framework) | 순수 Java 기반 쇼핑몰 백엔드 개발, OpenAI API 연동 AI 추천 시스템, 게시판 기능 구현
 
-### 📊 [**StockWave - AI 활용 주식 정보 통합 플랫폼**](https://github.com/heewonLEE2/Servlet-Stock-Project)
+### [**StockWave - AI 활용 주식 정보 통합 플랫폼**](https://github.com/heewonLEE2/Servlet-Stock-Project)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Servlet-Stock-Project)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](#)
 > **Java + OpenAI API** | 실시간 주식 데이터 조회, 배당금 예측 계산기, AI 뉴스 분석, Command Pattern + MVC 아키텍처
 
-### 📋 [**JSPBoard - MVC 패턴 순수 Java 게시판**](https://github.com/heewonLEE2/JSPBoard-Project)
+### [**JSPBoard - MVC 패턴 순수 Java 게시판**](https://github.com/heewonLEE2/JSPBoard-Project)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/JSPBoard-Project)
 > **MVC + Command Pattern** | Spring 미사용 순수 Servlet/JSP, 파일업로드/썸네일 생성, Ajax 댓글 시스템
 
-### 🕷️ [**파이썬 웹 크롤러 프로젝트**](https://github.com/heewonLEE2/Python/tree/master/CrawlProject)
+### [**파이썬 웹 크롤러 프로젝트**](https://github.com/heewonLEE2/Python/tree/master/CrawlProject)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Python/tree/master/CrawlProject)
 > **BeautifulSoup + OpenAI API** | 도서 정보 크롤링, 데이터 수집 및 전처리 자동화, GPT 기반 도서 추천 시스템
 
@@ -233,14 +233,6 @@
 ### 🛠️ **Development Stack**
 - **Kotlin** 모바일 개발 역량 확장
 - **Gradle** 빌드 시스템 최적화
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heewonLEE2&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heewonLEE2&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
