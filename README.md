@@ -108,30 +108,31 @@
 
 ---
 
-# 🎯 Current Skill Level (Self-Assessment)
+# 🎯 Current Skill
 
-### 🏆 **AI/ML Development Level** (80%+)
+### 🏆 **AI/ML Development**
 - **Python AI/ML** — 딥러닝 모델 구현, 데이터 분석 및 전처리
 - **Computer Vision** — CNN 아키텍처 설계, 논문 기반 모델 구현
-- **PyTorch & Keras** — 딥러닝 프레임워크 활용 및 커스텀 모델링
-
-### 🚀 **Backend & DevOps Level** (70%+)
+- **PyTorch & Keras** — 딥러닝 프레임워크 활용 및 커스텀 모델
+  
+### 🌱 **Web Development (BackEnd)**
 - **Java & Spring Boot** — 백엔드 아키텍처 설계, REST API 구축
-- **Node.js (Express)** — JavaScript 기반 백엔드 서비스 개발
-- **AWS & CI/CD** — 클라우드 인프라 구축 및 배포 자동화
-
-### 🌱 **Web Development Level** (70%+)
 - **Full-Stack Development** — React + Spring Boot/Node.js 기반 웹 서비스 개발
+- **Node.js (Express)** — JavaScript 기반 백엔드 서비스 개발
 - **Database Design** — Oracle, MySQL, MongoDB 설계 및 최적화
 
-### 📚 **Challenge Level** (50-69%)
+### 🏁 **Deployment & DevOps**
+- **Docker** — 컨테이너화 및 배포에 대한 개념만 이해
+- **AWS & CI/CD** — 클라우드 인프라 구축 및 배포 자동화
+
+### 📚 **Challenge**
 - **MLOps** — 모델 학습 파이프라인 자동화 (학습 중)
 - **Kubernetes** — 컨테이너 오케스트레이션 (학습 중)
 - **LLM & Fine-tuning** — RAG 구현, 프롬프트 엔지니어링 (학습 중)
 
-### 🔥 **Learning Started** (<50%)
+### 🔥 **Learning Started**
 - **Kotlin Mobile Development** — 안드로이드 네이티브 앱 개발
-- **Docker** — 컨테이너화 및 배포에 대한 개념만 이해
+
 - **Unity 2D Game Development** — Unity 엔진 기반 2D 게임 제작
 
 ---
@@ -210,7 +211,7 @@
 - **GitHub Actions**: 프론트엔드/백엔드 자동 배포 파이프라인 구축
 - 코드 푸시 시 자동 빌드 및 배포 자동화
 
-### **3. 컨테이너화 (진행 중)**
+### **3. 컨테이너화**
 - **Docker**: 애플리케이션 컨테이너화 및 이미지 관리
 - **Kubernetes**: 컨테이너 오케스트레이션 학습 중
 
