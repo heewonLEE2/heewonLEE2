@@ -141,10 +141,8 @@
 
 ---
 
-# 🔥 AI - Projects & Experience
-
 <details>
-<summary><h2>📄 AI Paper Model Implementation</h2></summary>
+<summary><h1>📄 AI Paper Model Implementation</h1></summary>
 
 ### [**VGG 논문 구현**](https://github.com/mongle-project/VVG19_Subject)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mongle-project/VVG19_Subject)
@@ -167,14 +165,22 @@
 
 </details>
 
-## **🤖 AI - Projects**
+---
 
-### [**2025년 국민체육진흥공단 공공데이터 활용 경진대회 - Health_Keeper**](https://github.com/heewonLEE2/Python/tree/master/SleepProject) 2025-12-4
+# 🤖 AI - Projects
+
+### [**QUAIL (팡팡팡) - AI 곰팡이 예방 및 진단 솔루션 [Google Play Store 출시완료]**](https://play.google.com/store/apps/details?id=com.quail.pangpangpang) [2026-01-12 ~ 2026-02-24]
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.quail.pangpangpang)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QUAIL-KOREAIT-KDT/FRONT-END)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/319a9006a30a808db265c251cc5bd50c)
+> **Flutter + FastAPI + MySQL + EfficientNet-B0 + ChromaDB (RAG) + AWS S3 + Firebase FCM + Tuya OpenAPI** | AI 이미지 분석과 환경 데이터를 활용한 곰팡이 예방·진단 모바일 서비스
+
+### [**2025년 국민체육진흥공단 공공데이터 활용 경진대회 - Health_Keeper**](https://github.com/heewonLEE2/Python/tree/master/SleepProject) [2025-11-21 ~ 2025-12-04]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Team-Health-Keeper/Health_Keeper_Front)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://confusion-tennis-2f8.notion.site/Health-Keeper-31ba9006a30a80da83bdcdd816756ac4?source=copy_link)
 > **React(Vite) + Node.js(Express) + AI모델 서빙** | 사용자가 간편하게 AI 기능에 접근하여 체력 상태를 확인하고, 개인별 맞춤 운동을 통해 자연스럽게 운동에 대한 흥미를 높일 수 있도록 하는 서비스
 
-### [**수면 분석 서비스 with AI 코멘트 개인 미니 프로젝트**](https://github.com/heewonLEE2/Python/tree/master/SleepProject) 2025-06-10
+### [**수면 분석 서비스 with AI 코멘트 개인 미니 프로젝트**](https://github.com/heewonLEE2/Python/tree/master/SleepProject) [2025-06-08 ~ 2025-06-10]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Python/tree/master/SleepProject)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Weq4QAWPQ6Q)
 > **Python + Streamlit + OpenAI API** | Sleep Health Dataset 기반 수면 패턴 분석, 대시보드 UI 구현, AI 기반 개인 맞춤 건강 코멘트 생성
@@ -184,31 +190,31 @@
 
 # 🌐 Backend & Full-Stack - Projects
 
-### [**MongleMongle - 반려동물 관리 및 커뮤니티 플랫폼**](https://github.com/mongle-project/front) 2025-12-24
+### [**MongleMongle - 반려동물 관리 및 커뮤니티 플랫폼**](https://github.com/mongle-project/front) [2025-12-07 ~ 2026-01-07]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/momentlock-project)
 > **React(Vite) + Node.js(Express) + MySQL(EC2)** |
 - 프론트는 React 19와 Vite로 구축된 모던 웹 애플리케이션
 - 백엔드는 반려동물 관리, 커뮤니티, AI 건강 상담 등을 제공하는 RESTful API 서버입니다. Express.js 기반으로 구축되었으며, AWS EC2에 호스팅된 MySQL 클라우드 데이터베이스를 사용하여 구축
 
-### [**MomentLock - 타임캡슐 소셜 플랫폼**](https://github.com/heewonLEE2/momentlock-project) 2025-10-19
+### [**MomentLock - 타임캡슐 소셜 플랫폼**](https://github.com/heewonLEE2/momentlock-project) [2025-09-02 ~ 2025-10-17]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/momentlock-project)
 > **Spring Boot 3 + JPA + AWS S3 + Oracle** | 협업형 타임캡슐 플랫폼, 토큰 기반 초대 시스템, 파일 업로드, 위치 기반 서비스, Spring Security + BCrypt
 
-### [**BO Project - AI 추천 패션 쇼핑몰**](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw) 2025-08-09
+### [**BO Project - AI 추천 패션 쇼핑몰**](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw) [2025-07-25 ~ 2025-08-09]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/shoppingmall_project/tree/lhw)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fc3utoxBQs8&t=23s)
 > **Java + Oracle** (No Spring Framework) | 순수 Java 기반 쇼핑몰 백엔드 개발, OpenAI API 연동 AI 추천 시스템, 게시판 기능 구현
 
-### [**StockWave - AI 활용 주식 정보 통합 플랫폼**](https://github.com/heewonLEE2/Servlet-Stock-Project) 2025-07-15
+### [**StockWave - AI 활용 주식 정보 통합 플랫폼**](https://github.com/heewonLEE2/Servlet-Stock-Project) [2025-07-1 ~ 2025-07-15]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Servlet-Stock-Project)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat&logo=youtube&logoColor=white)](#)
 > **Java + OpenAI API** | 실시간 주식 데이터 조회, 배당금 예측 계산기, AI 뉴스 분석, Command Pattern + MVC 아키텍처
 
-### [**JSPBoard - MVC 패턴 순수 Java 게시판**](https://github.com/heewonLEE2/JSPBoard-Project) 2025-08-29
+### [**JSPBoard - MVC 패턴 순수 Java 게시판**](https://github.com/heewonLEE2/JSPBoard-Project) [2025-08-21 ~ 2025-08-29]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/JSPBoard-Project)
 > **MVC + Command Pattern** | Spring 미사용 순수 Servlet/JSP, 파일업로드/썸네일 생성, Ajax 댓글 시스템
 
-### [**파이썬 웹 크롤러 프로젝트**](https://github.com/heewonLEE2/Python/tree/master/CrawlProject) 2025-06-20
+### [**파이썬 웹 크롤러 프로젝트**](https://github.com/heewonLEE2/Python/tree/master/CrawlProject) [2025-06-17 ~ 2025-06-20]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Python/tree/master/CrawlProject)
 > **BeautifulSoup + OpenAI API** | 도서 정보 크롤링, 데이터 수집 및 전처리 자동화, GPT 기반 도서 추천 시스템
 
