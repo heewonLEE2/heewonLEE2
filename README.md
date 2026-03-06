@@ -157,7 +157,7 @@
 
 ### [**2025년 국민체육진흥공단 공공데이터 활용 경진대회 - Health_Keeper**](https://github.com/heewonLEE2/Python/tree/master/SleepProject) 2025-12-4
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Team-Health-Keeper/Health_Keeper_Front)
-[![Notion](https://confusion-tennis-2f8.notion.site/Health-Keeper-31ba9006a30a80da83bdcdd816756ac4?source=copy_link)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://confusion-tennis-2f8.notion.site/Health-Keeper-31ba9006a30a80da83bdcdd816756ac4?source=copy_link)
 > **React(Vite) + Node.js(Express) + AI모델 서빙** | 사용자가 간편하게 AI 기능에 접근하여 체력 상태를 확인하고, 개인별 맞춤 운동을 통해 자연스럽게 운동에 대한 흥미를 높일 수 있도록 하는 서비스
 
 ### [**수면 분석 서비스 with AI 코멘트 개인 미니 프로젝트**](https://github.com/heewonLEE2/Python/tree/master/SleepProject) 2025-06-10
