@@ -36,9 +36,9 @@
 </div>
 
 ---
-
-# 🎯 Tech Stack & Learning Journey
-
+<details>
+<summary><h1>Tech Stack & Learning Journey </h1></summary>
+  
 ## **AI & Machine Learning** 🤖
 <p>
   <!-- 프레임워크 -->
@@ -106,54 +106,68 @@
   <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/></a>
 </p>
 
+
+
+</details>
+
 ---
 
-# 🎯 Current Skill
+<details>
+<summary><h1>Current Skill</h1></summary>
 
 ### 🏆 **AI/ML Development**
 - **Python AI/ML** — 딥러닝 모델 구현, 데이터 분석 및 전처리
 - **Computer Vision** — CNN 아키텍처 설계, 논문 기반 모델 구현
 - **PyTorch & Keras** — 딥러닝 프레임워크 활용 및 커스텀 모델
-  
+
 ### 🌱 **Web Development (BackEnd)**
+- **Python & FastAPI** — 백엔드 아키텍처 설계, REST API 구축
 - **Java & Spring Boot** — 백엔드 아키텍처 설계, REST API 구축
 - **Full-Stack Development** — React + Spring Boot/Node.js 기반 웹 서비스 개발
 - **Node.js (Express)** — JavaScript 기반 백엔드 서비스 개발
-- **Database Design** — Oracle, MySQL, MongoDB 설계 및 최적화
+- **Database Design** — Oracle, MySQL, MongoDB 설계
 
 ### 🏁 **Deployment & DevOps**
-- **Docker** — 컨테이너화 및 배포에 대한 개념만 이해
-- **AWS & CI/CD** — 클라우드 인프라 구축 및 배포 자동화
+- **Docker** — 컨테이너화 및 배포에 대한 개념
+- **AWS & CI/CD** — 클라우드 인프라 구축 및 GitAction을 이용해 간단한 배포 자동화
 
 ### 📚 **Challenge**
 - **MLOps** — 모델 학습 파이프라인 자동화 (학습 중)
 - **Kubernetes** — 컨테이너 오케스트레이션 (학습 중)
 - **LLM & Fine-tuning** — RAG 구현, 프롬프트 엔지니어링 (학습 중)
+- **Flutter Mobile Development** — Flutter로 크로스 플랫폼 모바일 앱 개발
 
-### 🔥 **Learning Started**
-- **Kotlin Mobile Development** — 안드로이드 네이티브 앱 개발
-
-- **Unity 2D Game Development** — Unity 엔진 기반 2D 게임 제작
+</details>
 
 ---
 
-# 🤖 AI - Projects & Experience
+# AI - Projects & Experience
 
-## **✔️Paper Model Implementation**
+<details>
+<summary><h2>📝 Paper Model Implementation</h2></summary>
 
-### [**VGG 논문 구현**]
+### [**VGG 논문 구현**](https://github.com/mongle-project/VVG19_Subject)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mongle-project/VVG19_Subject)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/VERY-DEEP-CONVOLUTIONAL-NETWORKS-FOR-LARGE-SCALE-IMAGE-RECOGNITION-2e3a9006a30a80759c5ee0f803bfb996)
 > **PyTorch** | "Very Deep Convolutional Networks for Large-Scale Image Recognition" 논문 기반 VGG 아키텍처 구현 및 학습
 
-### [**DenseNet논문 구현**]
+### [**DenseNet 논문 구현**](https://github.com/QUAIL-KOREAIT-KDT/CV-DenseNet)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QUAIL-KOREAIT-KDT/CV-DenseNet)
 > ResNet, DenseNet 주요 CNN 아키텍처 논문 구현 및 성능 비교 분석 팀 과제
 
-### [**Transformer논문 구현**]
+### [**Transformer 논문 구현**](https://github.com/QUAIL-KOREAIT-KDT/Pytorch-Transformer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QUAIL-KOREAIT-KDT/Pytorch-Transformer)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Attention-Is-All-You-Need-2eba9006a30a809ba352f4a2cbe828e3)
 > Transformer 논문 기반 분석 및 구현 팀 과제
+> 
+### [**LSTM 구현**](https://github.com/QUAIL-KOREAIT-KDT/Pytorch-Transformer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Paper-Implementations/blob/main/NLP/LSTM_Implementation.ipynb)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Long-Short-Term-Memory-31ba9006a30a80f0a027fcf6a6127572)
+> LSTM을 이용한 IMDB 감성 분류 (Many-to-one)
 
-## **✔️AI - Projects**
+</details>
+
+## **AI - Projects**
 
 ### [**2025년 국민체육진흥공단 공공데이터 활용 경진대회 - Health_Keeper**](https://github.com/heewonLEE2/Python/tree/master/SleepProject) 2025-12-4
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Team-Health-Keeper/Health_Keeper_Front)
@@ -168,7 +182,7 @@
 ---
 
 
-# 🌐 Backend & Full-Stack - Projects
+# Backend & Full-Stack - Projects
 
 ### [**MongleMongle - 반려동물 관리 및 커뮤니티 플랫폼**](https://github.com/mongle-project/front) 2025-12-24
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/momentlock-project)
@@ -200,7 +214,8 @@
 
 ---
 
-# ☁️ DevOps & Infrastructure Experience
+<details>
+<summary><h1>DevOps & Infrastructure Experience</h1></summary>
 
 ### **1. AWS 기반 풀스택 배포**
 - **EC2**: Express 서버 배포 및 운영
@@ -215,9 +230,12 @@
 - **Docker**: 애플리케이션 컨테이너화 및 이미지 관리
 - **Kubernetes**: 컨테이너 오케스트레이션 학습 중
 
+</details>
+
 ---
 
-# 📌 Learning Goals
+<details>
+<summary><h1>Learning Goals</h1></summary>
 
 ### 🤖 **AI Specialization (Primary Focus)**
 - **Computer Vision** 전문화 (Object Detection, Segmentation, 실시간 처리)
@@ -234,6 +252,8 @@
 ### 🛠️ **Development Stack**
 - **Kotlin** 모바일 개발 역량 확장
 - **Gradle** 빌드 시스템 최적화
+
+</details>
 
 ---
 
