@@ -37,7 +37,7 @@
 
 ---
 <details>
-<summary><h1>Tech Stack & Learning Journey </h1></summary>
+<summary><h1>💻 Tech Stack & Learning Journey </h1></summary>
   
 ## **AI & Machine Learning** 🤖
 <p>
@@ -113,7 +113,7 @@
 ---
 
 <details>
-<summary><h1>Current Skill</h1></summary>
+<summary><h1>🎯 Current Skill</h1></summary>
 
 ### 🏆 **AI/ML Development**
 - **Python AI/ML** — 딥러닝 모델 구현, 데이터 분석 및 전처리
@@ -141,10 +141,10 @@
 
 ---
 
-# AI - Projects & Experience
+# 🔥 AI - Projects & Experience
 
 <details>
-<summary><h2>📝 Paper Model Implementation</h2></summary>
+<summary><h2>📄 AI Paper Model Implementation</h2></summary>
 
 ### [**VGG 논문 구현**](https://github.com/mongle-project/VVG19_Subject)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mongle-project/VVG19_Subject)
@@ -167,7 +167,7 @@
 
 </details>
 
-## **AI - Projects**
+## **🤖 AI - Projects**
 
 ### [**2025년 국민체육진흥공단 공공데이터 활용 경진대회 - Health_Keeper**](https://github.com/heewonLEE2/Python/tree/master/SleepProject) 2025-12-4
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Team-Health-Keeper/Health_Keeper_Front)
@@ -182,7 +182,7 @@
 ---
 
 
-# Backend & Full-Stack - Projects
+# 🌐 Backend & Full-Stack - Projects
 
 ### [**MongleMongle - 반려동물 관리 및 커뮤니티 플랫폼**](https://github.com/mongle-project/front) 2025-12-24
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/momentlock-project)
@@ -215,7 +215,7 @@
 ---
 
 <details>
-<summary><h1>DevOps & Infrastructure Experience</h1></summary>
+<summary><h1>☁️ DevOps & Infrastructure Experience</h1></summary>
 
 ### **1. AWS 기반 풀스택 배포**
 - **EC2**: Express 서버 배포 및 운영
@@ -235,7 +235,7 @@
 ---
 
 <details>
-<summary><h1>Learning Goals</h1></summary>
+<summary><h1>🚀 Learning Goals</h1></summary>
 
 ### 🤖 **AI Specialization (Primary Focus)**
 - **Computer Vision** 전문화 (Object Detection, Segmentation, 실시간 처리)
