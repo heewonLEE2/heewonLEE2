@@ -144,6 +144,11 @@
 <details>
 <summary><h1>📄 AI Paper Model Implementation</h1></summary>
 
+### [**ViT 구현**](https://github.com/QUAIL-KOREAIT-KDT/Pytorch-Transformer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Paper-Implementations/blob/main/CV/ViT_from_scratch.ipynb)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/AN-IMAGE-IS-WORTH-16X16-WORDS-TRANSFORMERS-FOR-IMAGE-RECOGNITION-AT-SCALE-31ca9006a30a80a38235fc8c38196e34)
+> ViT_from_scratch_Implementation
+
 ### [**VGG 논문 구현**](https://github.com/mongle-project/VVG19_Subject)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mongle-project/VVG19_Subject)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/VERY-DEEP-CONVOLUTIONAL-NETWORKS-FOR-LARGE-SCALE-IMAGE-RECOGNITION-2e3a9006a30a80759c5ee0f803bfb996)
@@ -157,7 +162,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QUAIL-KOREAIT-KDT/Pytorch-Transformer)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Attention-Is-All-You-Need-2eba9006a30a809ba352f4a2cbe828e3)
 > Transformer 논문 기반 분석 및 구현 팀 과제
-> 
+
 ### [**LSTM 구현**](https://github.com/QUAIL-KOREAIT-KDT/Pytorch-Transformer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Paper-Implementations/blob/main/NLP/LSTM_Implementation.ipynb)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Long-Short-Term-Memory-31ba9006a30a80f0a027fcf6a6127572)
