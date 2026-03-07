@@ -197,9 +197,7 @@
 
 ### [**MongleMongle - 반려동물 관리 및 커뮤니티 플랫폼**](https://github.com/mongle-project/front) [2025-12-07 ~ 2026-01-07]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/momentlock-project)
-> **React(Vite) + Node.js(Express) + MySQL(EC2)** |
-- 프론트는 React 19와 Vite로 구축된 모던 웹 애플리케이션
-- 백엔드는 반려동물 관리, 커뮤니티, AI 건강 상담 등을 제공하는 RESTful API 서버입니다. Express.js 기반으로 구축되었으며, AWS EC2에 호스팅된 MySQL 클라우드 데이터베이스를 사용하여 구축
+> **React(Vite) + Node.js(Express) + MySQL(EC2)** | 프론트는 React 19와 Vite로 구축된 모던 웹 애플리케이션 | 백엔드는 반려동물 관리, 커뮤니티, AI 건강 상담 등을 제공하는 RESTful API 서버입니다. Express.js 기반으로 구축되었으며, AWS EC2에 호스팅된 MySQL 클라우드 데이터베이스를 사용하여 구축
 
 ### [**MomentLock - 타임캡슐 소셜 플랫폼**](https://github.com/heewonLEE2/momentlock-project) [2025-09-02 ~ 2025-10-17]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/momentlock-project)
