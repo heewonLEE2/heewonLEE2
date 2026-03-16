@@ -67,6 +67,11 @@
   <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
   <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a>
   <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white"/></a>
+
+  <img src="https://img.shields.io/badge/OpenAI%20Gym-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stable%20Baselines3-2072B5?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DQN-FF6F00?style=flat"/>
+  <img src="https://img.shields.io/badge/PPO-00897B?style=flat"/>
 </p>
 
 ## **DevOps & Cloud** ☁️
@@ -116,26 +121,26 @@
 <summary><h1>🎯 Current Skill</h1></summary>
 
 ### 🏆 **AI/ML Development**
-- **Python AI/ML** — 딥러닝 모델 구현, 데이터 분석 및 전처리
-- **Computer Vision** — CNN 아키텍처 설계, 논문 기반 모델 구현
-- **PyTorch & Keras** — 딥러닝 프레임워크 활용 및 커스텀 모델
+- **Computer Vision** — CNN (EfficientNet 등) 아키텍처 설계 및 이미지 분석 모델 구현
+- **Reinforcement Learning** — DQN, PPO 알고리즘 및 Stable Baselines3를 활용한 에이전트 학습 (미니게임, RC카 제어)
+- **LLM & RAG** — ChromaDB를 활용한 RAG 파이프라인 구축 및 맞춤형 솔루션 제공
+- **Python AI/ML** — PyTorch, Keras를 활용한 딥러닝 프레임워크 기반 커스텀 모델링
 
 ### 🌱 **Web Development (BackEnd)**
-- **Python & FastAPI** — 백엔드 아키텍처 설계, REST API 구축
+- **Python & FastAPI** — 백엔드 아키텍처 설계 및 AI 모델 서빙용 REST API 구축
 - **Java & Spring Boot** — 백엔드 아키텍처 설계, REST API 구축
 - **Full-Stack Development** — React + Spring Boot/Node.js 기반 웹 서비스 개발
-- **Node.js (Express)** — JavaScript 기반 백엔드 서비스 개발
-- **Database Design** — Oracle, MySQL, MongoDB 설계
+- **Database Design** — Oracle, MySQL, MongoDB 설계 및 최적화
 
 ### 🏁 **Deployment & DevOps**
-- **Docker** — 컨테이너화 및 배포에 대한 개념
-- **AWS & CI/CD** — 클라우드 인프라 구축 및 GitAction을 이용해 간단한 배포 자동화
+- **Docker** — Docker Compose를 이용한 컨테이너 네트워크 구성 및 서비스 도커라이징
+- **AWS & CI/CD** — 클라우드 인프라 구축 및 GitHub Actions를 이용한 배포 자동화
 
 ### 📚 **Challenge**
-- **MLOps** — 모델 학습 파이프라인 자동화 (학습 중)
-- **Kubernetes** — 컨테이너 오케스트레이션 (학습 중)
-- **LLM & Fine-tuning** — RAG 구현, 프롬프트 엔지니어링 (학습 중)
-- **Flutter Mobile Development** — Flutter로 크로스 플랫폼 모바일 앱 개발
+- **MLOps** — 모델 학습 및 배포 파이프라인 자동화
+- **Kubernetes** — 대규모 서비스 운영을 위한 컨테이너 오케스트레이션
+- **Advanced LLM Agents** — LangGraph를 활용한 다중 에이전트 워크플로우 구축
+- **Flutter Mobile Development** — Flutter 기반 크로스 플랫폼 모바일 앱 개발
 
 </details>
 
