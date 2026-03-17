@@ -149,6 +149,11 @@
 <details>
 <summary><h1>📄 AI Paper Model Implementation</h1></summary>
 
+### [**ResNet50 구현**](https://github.com/QUAIL-KOREAIT-KDT/Pytorch-Transformer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Paper-Implementations/blob/main/CV/ResNet50_Implement.ipynb)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Deep-Residual-Learning-for-Image-Recognition-2f4a9006a30a80a28a94cd66209d0b5c)
+> ViT_from_scratch_Implementation
+
 ### [**ViT 구현**](https://github.com/QUAIL-KOREAIT-KDT/Pytorch-Transformer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heewonLEE2/Paper-Implementations/blob/main/CV/ViT_from_scratch.ipynb)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/AN-IMAGE-IS-WORTH-16X16-WORDS-TRANSFORMERS-FOR-IMAGE-RECOGNITION-AT-SCALE-31ca9006a30a80a38235fc8c38196e34)
@@ -162,6 +167,8 @@
 ### [**DenseNet 논문 구현**](https://github.com/QUAIL-KOREAIT-KDT/CV-DenseNet)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QUAIL-KOREAIT-KDT/CV-DenseNet)
 > ResNet, DenseNet 주요 CNN 아키텍처 논문 구현 및 성능 비교 분석 팀 과제
+
+---
 
 ### [**Transformer 논문 구현**](https://github.com/QUAIL-KOREAIT-KDT/Pytorch-Transformer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QUAIL-KOREAIT-KDT/Pytorch-Transformer)
