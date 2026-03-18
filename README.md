@@ -190,6 +190,9 @@
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.quail.pangpangpang)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QUAIL-KOREAIT-KDT/FRONT-END)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/QUAIL-AI-f61a9006a30a832eb20a017b5a59ea72)
+
+☑️ 발표영상 => [![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13gSynaTEvkQFGEIGtrF-vlXc1799EeNq/view?usp=sharing)
+☑️ 발표ppt자료 => [![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XiBKjN38fR-2i5mtu6ZnI7qb5fhqadzb/view?usp=sharing)
 > **Flutter + FastAPI + MySQL + EfficientNet-B0 + ChromaDB (RAG) + AWS S3 + Firebase FCM + Tuya OpenAPI** | AI 이미지 분석과 환경 데이터를 활용한 곰팡이 예방·진단 모바일 서비스
 
 ### [**Health_Keeper - 2025년 국민체육진흥공단 공공데이터 활용 경진대회**](https://github.com/heewonLEE2/Python/tree/master/SleepProject) [2025-11-21 ~ 2025-12-04]
