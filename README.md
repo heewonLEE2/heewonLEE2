@@ -186,7 +186,7 @@
 
 # 🤖 AI - Projects
 
-### [**QUAIL (팡팡팡) - AI 곰팡이 예방 및 진단 솔루션 [Google Play Store 비공개 테스트 진행중]**](https://play.google.com/store/apps/details?id=com.quail.pangpangpang) [2026-01-12 ~ 2026-02-24]
+### [**QUAIL (팡팡팡) - AI 곰팡이 예방 및 진단 솔루션 [Google Play Store 출시완료 -서비스 진행중-]**](https://play.google.com/store/apps/details?id=com.quail.pangpangpang) [2026-01-12 ~ 2026-02-24]
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.quail.pangpangpang)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QUAIL-KOREAIT-KDT/FRONT-END)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/QUAIL-AI-f61a9006a30a832eb20a017b5a59ea72)
