@@ -121,25 +121,37 @@
 <summary><h1>🎯 Current Skill</h1></summary>
 
 ### 🏆 **AI/ML Development**
-- **Computer Vision** — CNN (EfficientNet 등) 아키텍처 설계 및 이미지 분석 모델 구현
+- **Computer Vision** — CNN (EfficientNet 등) 아키텍처 설계 및 이미지 분석 모델 구현 (PyTorch, GPU 학습)
+- **Voice AI & Real-time Audio** — Twilio Media Streams 기반 양방향 음성 처리, VAD (Silero) / STT (Deepgram) / TTS (Azure) Provider 패턴 통합, mulaw 8kHz / 20ms 청크 송출
+- **LLM Agents & Tool Use** — LangGraph 다중 노드 그래프 설계 (query_refine → intent_router → 분기 9-node), OpenAI Function Calling (`tool_choice`), MCP (Model Context Protocol) 기반 외부 도구 통합
+- **RAG & Hybrid Search** — Dense (Qwen3-Embedding) + Sparse (BM25 + Kiwi 형태소) RRF Hybrid 검색, ChromaDB 벡터 저장, NO_RESULT 환각 차단 프롬프트 설계
+- **Biometric Verification** — TitaNet 기반 화자 검증 (runtime voice print enrollment, ONNX), ArcFace 얼굴 인증
 - **Reinforcement Learning** — DQN, PPO 알고리즘 및 Stable Baselines3를 활용한 에이전트 학습 (미니게임, RC카 제어)
-- **LLM & RAG** — ChromaDB를 활용한 RAG 파이프라인 구축 및 맞춤형 솔루션 제공
 - **Python AI/ML** — PyTorch, Keras를 활용한 딥러닝 프레임워크 기반 커스텀 모델링
 
 ### 🌱 **Web Development (BackEnd)**
-- **Python & FastAPI** — 백엔드 아키텍처 설계 및 AI 모델 서빙용 REST API 구축
-- **Java & Spring Boot** — 백엔드 아키텍처 설계, REST API 구축
-- **Full-Stack Development** — React + Spring Boot/Node.js 기반 웹 서비스 개발
-- **Database Design** — Oracle, MySQL, MongoDB 설계 및 최적화
+- **Python & FastAPI** — 백엔드 아키텍처 설계, AI 모델 서빙 REST API, async/await 비동기 처리, WebSocket 양방향 통신
+- **Java & Spring Boot** — 백엔드 아키텍처 설계, REST API 구축, MVC 패턴 게시판 구현
+- **Full-Stack Development** — React (Vite/TailwindCSS) + FastAPI/Spring Boot/Node.js 기반 웹 서비스 개발
+- **Database Design** — PostgreSQL (asyncpg, JSONB, 멀티 테넌트 외래키), Oracle, MySQL, MongoDB 설계 및 최적화
+- **Redis & Event-Driven** — 세션 TTL 관리, Pub/Sub 기반 이벤트 채널 (자율 응대 listener), Semantic Cache
+
+### 🔌 **External API Integration**
+- **AI/ML APIs** — OpenAI API (GPT-4o, Function Calling) · Deepgram STT · Azure TTS
+- **Telephony & Messaging** — Twilio (PSTN / Media Streams / REST) · 솔라피 SMS · Firebase FCM (푸시 알림)
+- **Collaboration & Productivity** — Google Calendar API (events.list 빈 슬롯 검증, event 등록) · Slack · Gmail · Jira · Notion (MCP 통합)
+- **Cloud & IoT** — AWS S3 (이미지 저장) · Tuya OpenAPI (환경 센서 데이터 연동)
 
 ### 🏁 **Deployment & DevOps**
-- **Docker** — Docker Compose를 이용한 컨테이너 네트워크 구성 및 서비스 도커라이징
+- **Docker & Multi-Container Orchestration** — Docker Compose 기반 멀티 컨테이너 통합 (PostgreSQL / Redis / ChromaDB), alpine 이미지 + 버전 핀, DB별 이종 healthcheck, 영속성 정책 (named volume + Redis AOF), init SQL hook
 - **AWS & CI/CD** — 클라우드 인프라 구축 및 GitHub Actions를 이용한 배포 자동화
+- **Infrastructure as Code (mini)** — Makefile 의도 단위 워크플로 (`make up/reset/seed/check`), 멱등 시드 스크립트, 온보딩 문서 직접 작성
+- **Feature Flag & Safe Rollback** — 환경변수 기반 회귀 안전망 설계 (운영 중 문제 시 즉시 롤백 가능)
 
 ### 📚 **Challenge**
 - **MLOps** — 모델 학습 및 배포 파이프라인 자동화
 - **Kubernetes** — 대규모 서비스 운영을 위한 컨테이너 오케스트레이션
-- **Advanced LLM Agents** — LangGraph를 활용한 다중 에이전트 워크플로우 구축
+- **Model Optimization** — 양자화·프루닝 등 모델 경량화 기법
 - **Flutter Mobile Development** — Flutter 기반 크로스 플랫폼 모바일 앱 개발
 
 </details>
