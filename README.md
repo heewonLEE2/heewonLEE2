@@ -286,18 +286,32 @@
 <details>
 <summary><h1>☁️ DevOps & Infrastructure Experience</h1></summary>
 
-### **1. AWS 기반 풀스택 배포**
-- **EC2**: Express 서버 배포 및 운영
-- **RDS (MariaDB)**: 관계형 데이터베이스 구축
-- **S3 + CloudFront**: 정적 사이트 배포 및 CDN 구성
+### **1. AWS 기반 풀스택 배포** (QUAIL · Health Keeper)
+- **EC2**: Node.js / Express 서버 배포 및 운영 (Health Keeper)
+- **RDS**: 관계형 데이터베이스 구축 — MariaDB (Health Keeper) · MySQL (QUAIL)
+- **S3 + CloudFront**: 정적 사이트 배포 + CDN, 이미지 저장소
+- **FastAPI + Docker 배포**: QUAIL Google Play Store 프로덕션 운영
 
 ### **2. CI/CD Pipeline**
-- **GitHub Actions**: 프론트엔드/백엔드 자동 배포 파이프라인 구축
-- 코드 푸시 시 자동 빌드 및 배포 자동화
+- **GitHub Actions**: Health Keeper 프론트엔드 자동 배포
+- 코드 푸시 시 자동 빌드 · 배포
 
-### **3. 컨테이너화**
-- **Docker**: 애플리케이션 컨테이너화 및 이미지 관리
-- **Kubernetes**: 컨테이너 오케스트레이션 학습 중
+### **3. Docker Compose 멀티 컨테이너 인프라** (시시콜콜)
+- 3 저장소 (PostgreSQL 16 / Redis 7 / ChromaDB 0.5.23) 를 단일 `docker-compose.yml` 로 통합
+- alpine + 버전 핀으로 환경 재현성 보장
+- DB별 healthcheck 설계 (ChromaDB 는 python urllib 로 우회)
+- Redis AOF + named volume — 데이터 손실 방지
+- PostgreSQL init SQL hook 으로 11개 테이블 자동 생성
+
+### **4. Infrastructure as Code (mini)** (시시콜콜)
+- Makefile 의도 단위 워크플로 — `make up / reset / seed / check`
+- 멱등 시드 스크립트로 여러 번 실행해도 안전
+- 온보딩 문서 직접 작성 (6인 팀 환경 통일)
+- Feature Flag 회귀 안전망 — 환경변수만 끄면 즉시 롤백
+
+### **5. 학습 중**
+- **Kubernetes** — 컨테이너 오케스트레이션
+- **MLOps** — 모델 학습 · 배포 파이프라인 자동화
 
 </details>
 
@@ -306,21 +320,19 @@
 <details>
 <summary><h1>🚀 Learning Goals</h1></summary>
 
-### 🤖 **AI Specialization (Primary Focus)**
-- **Computer Vision** 전문화 (Object Detection, Segmentation, 실시간 처리)
-- **논문 기반 모델 구현** (ResNet, EfficientNet, Transformer 등)
-- **LLM & Fine-tuning** (RAG, Prompt Engineering, 모델 파인튜닝)
-- **MLOps 파이프라인** 구축 (모델 학습 → 서빙 → 모니터링 자동화)
+### 🤖 **AI 깊이** (Primary Focus)
+- **Computer Vision 전문화** — Object Detection · Segmentation · 실시간 영상 분석
+- **LLM Fine-tuning** — 도메인 특화 모델 학습 · 프롬프트 엔지니어링 고도화
+- **LLM Agent 아키텍처 고도화** — 멀티 에이전트 · ReAct · Planning
+- **논문 기반 모델 구현** — ResNet · EfficientNet · Transformer 계열
 
-### 🏗️ **Backend & Infrastructure**
-- **Spring Boot** 대규모 서비스 아키텍처 설계
-- **Node.js (Express)** JavaScript 기반 백엔드 고도화
-- **DevOps** 전문화 (Docker, Kubernetes, CI/CD)
-- **AI 서비스 배포** (FastAPI, Model Serving)
+### 🏗️ **AI 서비스 운영**
+- **MLOps 파이프라인** — 학습 → 서빙 → 모니터링 자동화
+- **Model Serving 고도화** — vLLM · TGI · Triton 등 추론 최적화
+- **분산 실시간 시스템** — 음성 · 스트리밍 서비스 스케일 아웃 설계
 
-### 🛠️ **Development Stack**
-- **Kotlin** 모바일 개발 역량 확장
-- **Gradle** 빌드 시스템 최적화
+### 🌱 **확장 영역**
+- **Flutter / Kotlin** — 크로스 플랫폼 모바일 개발
 
 </details>
 
