@@ -42,32 +42,32 @@
 ## **AI & Machine Learning** 🤖
 <p>
   <!-- 프레임워크 -->
-  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
-  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
   
   <!-- 머신러닝 -->
-  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>
   
   <!-- 컴퓨터 비전 -->
-  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/></a>
-  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/CNN-4285F4?style=flat&logo=googlescholar&logoColor=white"/></a>
-  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/Computer%20Vision-FF4B4B?style=flat&logo=opencv&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link"><img src="https://img.shields.io/badge/CNN-4285F4?style=flat&logo=googlescholar&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link"><img src="https://img.shields.io/badge/Computer%20Vision-FF4B4B?style=flat&logo=opencv&logoColor=white"/></a>
   
   <!-- LLM & Agent -->
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-FF4785?style=flat&logo=googlegemini&logoColor=white"/>
   
-  <!-- Vector Database -->
-  <img src="https://img.shields.io/badge/Vector%20Database-00ADD8?style=flat&logo=databricks&logoColor=white"/>
+  <!-- Vector Database (구체화) -->
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logo=databricks&logoColor=white"/>
   
   <!-- Multimodal -->
   <img src="https://img.shields.io/badge/Multimodal%20AI-9B59B6?style=flat&logo=openai&logoColor=white"/>
   
   <!-- 데이터 분석 -->
-  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
-  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a>
-  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link" ><img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white"/></a>
 
+  <!-- 강화학습 -->
   <img src="https://img.shields.io/badge/OpenAI%20Gym-412991?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stable%20Baselines3-2072B5?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/DQN-FF6F00?style=flat"/>
@@ -76,42 +76,66 @@
 
 ## **DevOps & Cloud** ☁️
 <p>
-  <a href="https://confusion-tennis-2f8.notion.site/273a9006a30a8014bf23e3e078b952a6?v=273a9006a30a818789f9000ca622c03a&source=copy_link" ><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
-  <a href="https://confusion-tennis-2f8.notion.site/273a9006a30a8014bf23e3e078b952a6?v=273a9006a30a818789f9000ca622c03a&source=copy_link" ><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/273a9006a30a8014bf23e3e078b952a6?v=273a9006a30a818789f9000ca622c03a&source=copy_link"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
+  <a href="https://confusion-tennis-2f8.notion.site/273a9006a30a8014bf23e3e078b952a6?v=273a9006a30a818789f9000ca622c03a&source=copy_link"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 </p>
 
 ## **Backend** ⚙️
 <p>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80f7a7d5000cc901b9a8&source=copy_link" ><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80f7a7d5000cc901b9a8&source=copy_link" ><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80509a2f000ce43728fc&source=copy_link" ><img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=apache&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a8000a60e000c7765aab2&source=copy_link" ><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a8000a60e000c7765aab2&source=copy_link" ><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80f7a7d5000cc901b9a8&source=copy_link"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80f7a7d5000cc901b9a8&source=copy_link"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80509a2f000ce43728fc&source=copy_link"><img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=apache&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a8000a60e000c7765aab2&source=copy_link"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a8000a60e000c7765aab2&source=copy_link"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
 </p>
 
 ## **Database** 🗄️
 <p>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80509a2f000ce43728fc&source=copy_link" ><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80509a2f000ce43728fc&source=copy_link"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/></a>
 </p>
 
 ## **Frontend** 🎨
 <p>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
-  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link" ><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
+  <a href="https://www.notion.so/1daa9006a30a80f09f3fcd1a833eb28d?v=25aa9006a30a80318bfc000c20bc5fda&source=copy_link"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 </p>
 
-
+## **APIs & Services** 📡
+<p>
+  <!-- Telephony & Voice -->
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat&logo=data:image/svg+xml;base64,&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Speech-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  
+  <!-- LLM -->
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white"/>
+  
+  <!-- Productivity & Cloud -->
+  <img src="https://img.shields.io/badge/Google%20Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  
+  <!-- Collaboration -->
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion%20API-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+</p>
 
 </details>
 
