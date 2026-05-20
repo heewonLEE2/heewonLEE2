@@ -186,7 +186,16 @@
 
 # 🤖 AI - Projects
 
-### [**QUAIL (팡팡팡) - AI 곰팡이 예방 및 진단 솔루션 [Google Play Store 출시완료 -서비스 진행중-]**](https://play.google.com/store/apps/details?id=com.quail.pangpangpang) [2026-01-12 ~ 2026-02-24]
+
+### [**Of-Calls (시시콜콜) - AI 음성 고객상담 운영 플랫폼 [팀장]**](https://www.notion.so/365a9006a30a80ef9fb2c52b2677f7be) [2026-03 ~ 2026-05]
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Of-Calls/sisicallcall)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Of-Calls-AI-Agent-365a9006a30a80ef9fb2c52b2677f7be)
+☑️ 발표영상 => [![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1h-e14SAmH9BZSbZ1uFupspbEwJuEjVFO/view?usp=sharing)
+☑️ 발표ppt자료 => [![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TEgRitwNpHR6NWsaYD0w4CqoaOUqDinO/view?usp=sharing)
+☑️ 시연영상 => [![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HdbN96GnyjxdKNjGQ6cybVw9fvNeSM1c/view?usp=sharing)
+> **LangGraph + Twilio + Deepgram + Azure TTS + FastAPI + PostgreSQL + Redis + ChromaDB + Docker Compose** | 전화를 받고 이해·요약·분석하고 후속 업무(Notion/Slack/Jira/Calendar)까지 자동 실행하는 멀티 테넌트 음성 AI 콜센터
+
+### [**QUAIL (팡팡팡) - AI 곰팡이 예방 및 진단 솔루션 [팀장] [Google Play Store 출시완료 -서비스 진행중-]**](https://play.google.com/store/apps/details?id=com.quail.pangpangpang) [2026-01-12 ~ 2026-02-24]
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.quail.pangpangpang)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QUAIL-KOREAIT-KDT/FRONT-END)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/QUAIL-AI-f61a9006a30a832eb20a017b5a59ea72)
