@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hi, I'm Heewon Lee</h1>
+
 <p align="center">
-  💡 Deep Learning과 백엔드 기술로 AI 서비스를 구축하는 엔지니어  
+  💡 Building AI products that ship to real users — not just notebooks and papers
+  <br>
+  🧩 Full-stack: model · backend · infrastructure, end-to-end
 </p>
 
 <!-- 풀폭 버튼 바 -->
@@ -8,21 +11,27 @@
   <table>
     <tr>
       <td align="center" style="padding: 8px;">
-        <a href="https://confusion-tennis-2f8.notion.site/1daa9006a30a80f09f3fcd1a833eb28d?v=1daa9006a30a80b0ae1b000caab9dc99&source=copy_link">
+        <a href="https://www.notion.so/9e4a9006a30a8379b67081b40ea25646" target="_blank">
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-          <br><b>📚 Web + DevOps 프로그래밍 학습 정리</b>
-        </a>
-      </td>
-      <td align="center" style="padding: 8px;">
-        <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-          <br><b>🤖 AI 학습 정리</b>
+          <br><b>📌 이희원 포트폴리오</b>
         </a>
       </td>
       <td align="center" style="padding: 8px;">
         <a href="https://github.com/heewonLEE2" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
           <br><b>👨‍💻 GitHub</b>
+        </a>
+      </td>
+      <td align="center" style="padding: 8px;">
+        <a href="https://confusion-tennis-2f8.notion.site/1daa9006a30a80f09f3fcd1a833eb28d?v=1daa9006a30a80b0ae1b000caab9dc99&source=copy_link">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+          <br><b>📚 Web + DevOps 학습 정리</b>
+        </a>
+      </td>
+      <td align="center" style="padding: 8px;">
+        <a href="https://confusion-tennis-2f8.notion.site/24fa9006a30a80ae839be4487b88504e?v=254a9006a30a804d8c7c000c2b2417fd&source=copy_link">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+          <br><b>🤖 AI 학습 정리</b>
         </a>
       </td>
       <td align="center" style="padding: 8px;">
